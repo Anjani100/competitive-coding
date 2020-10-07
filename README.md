@@ -1,6 +1,6 @@
 ### Competitive-Coding
 ![Github](https://img.shields.io/github/license/Anjani100/competitive-coding)
-![PyPI - Python Version](https://img.shields.io/conda/pn/conda-forge/python)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django?style=flat-square)
 
 
 Here, in this repository, we did some competitive coding essential for college placements as well as for getting a job in IT field for those who doesn't have good hand in coding. Following are the list of some problems asked in leetcode:
