@@ -6,6 +6,7 @@
 Here, in this repository, we did some competitive coding essential for college placements as well as for getting a job in IT field for those who doesn't have good hand in coding. Following are the list of some problems asked in leetcode:
 ## Problems
 * Three Sum
+* Three Sum Closest
 * Four Sum
 * Add two numbers
 * Container with most water
